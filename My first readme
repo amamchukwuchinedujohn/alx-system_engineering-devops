@@ -1,0 +1,6 @@
+git checkout master
+git pull
+touch git pull>up_to_date
+git add
+git commit -m
+git push
